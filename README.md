@@ -23,19 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Stats & Numbers
-<p align="center">
-  <a href="https://github.com/Jovicprogrammer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jovicprogrammer&theme=nightowl&show_icons=true&hide_border=true" 
-    style="border: 2px solid #58a6ff; border-radius: 10px; box-shadow: 0 0 10px #58a6ff;" />
-  </a>
-  <br>
-  <a href="https://github.com/Jovicprogrammer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovicprogrammer&theme=nightowl&hide_border=true&layout=compact" 
-    style="border: 2px solid #bd93f9; border-radius: 10px; box-shadow: 0 0 10px #bd93f9;" />
-  </a>
-</p>
-
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.
 
